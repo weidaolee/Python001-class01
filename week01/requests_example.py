@@ -8,4 +8,3 @@ target_url = 'https://movie.douban.com/top250'
 
 response = requests.get(target_url, headers=header)
 
-
